@@ -17,7 +17,8 @@
   },
   "scripts": {
     "start": "react-scripts start",
-    "build": "PUBLIC_URL=/ react-scripts build",
+    "build:dev": "react-scripts build",
+    "build:prod": "PUBLIC_URL=https://klissmangranados.github.io/team-international-react-bootcamp/ react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
