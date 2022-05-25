@@ -2,7 +2,6 @@
   "name": "teaminternational",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://klissmangranados.github.io/team-international-react-bootcamp",
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^6.1.1",
     "@fortawesome/free-solid-svg-icons": "^6.1.1",
@@ -19,6 +18,7 @@
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
+    "build:prod": "PUBLIC_URL=/team-international-react-bootcamp build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
