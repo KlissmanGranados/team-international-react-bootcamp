@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/team-international-react-bootcamp/static/css/main.21a87317.css",
-    "main.js": "/team-international-react-bootcamp/static/js/main.ca755659.js",
+    "main.js": "/team-international-react-bootcamp/static/js/main.79f89299.js",
     "static/js/787.95a26214.chunk.js": "/team-international-react-bootcamp/static/js/787.95a26214.chunk.js",
     "index.html": "/team-international-react-bootcamp/index.html",
     "main.21a87317.css.map": "/team-international-react-bootcamp/static/css/main.21a87317.css.map",
-    "main.ca755659.js.map": "/team-international-react-bootcamp/static/js/main.ca755659.js.map",
+    "main.79f89299.js.map": "/team-international-react-bootcamp/static/js/main.79f89299.js.map",
     "787.95a26214.chunk.js.map": "/team-international-react-bootcamp/static/js/787.95a26214.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.21a87317.css",
-    "static/js/main.ca755659.js"
+    "static/js/main.79f89299.js"
   ]
 }
