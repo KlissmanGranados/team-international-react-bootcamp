@@ -29,7 +29,7 @@ jobs:
       - name: npm install, build
         run: |
           npm install
-          npm run build --if-present
+          HOMEPAGE='team-international-react-bootcamp/' npm run build --if-present
       - name: deploy to gh-pages
         uses: peaceiris/actions-gh-pages@v3
         with:
