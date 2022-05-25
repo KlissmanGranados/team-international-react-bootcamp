@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "https://klissmangranados.github.io/team-international-react-bootcamp/static/css/main.21a87317.css",
-    "main.js": "https://klissmangranados.github.io/team-international-react-bootcamp/static/js/main.e22d7da0.js",
-    "static/js/787.95a26214.chunk.js": "https://klissmangranados.github.io/team-international-react-bootcamp/static/js/787.95a26214.chunk.js",
-    "index.html": "https://klissmangranados.github.io/team-international-react-bootcamp/index.html",
-    "main.21a87317.css.map": "https://klissmangranados.github.io/team-international-react-bootcamp/static/css/main.21a87317.css.map",
-    "main.e22d7da0.js.map": "https://klissmangranados.github.io/team-international-react-bootcamp/static/js/main.e22d7da0.js.map",
-    "787.95a26214.chunk.js.map": "https://klissmangranados.github.io/team-international-react-bootcamp/static/js/787.95a26214.chunk.js.map"
+    "main.css": "/static/css/main.21a87317.css",
+    "main.js": "/static/js/main.e3606e50.js",
+    "static/js/787.95a26214.chunk.js": "/static/js/787.95a26214.chunk.js",
+    "index.html": "/index.html",
+    "main.21a87317.css.map": "/static/css/main.21a87317.css.map",
+    "main.e3606e50.js.map": "/static/js/main.e3606e50.js.map",
+    "787.95a26214.chunk.js.map": "/static/js/787.95a26214.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.21a87317.css",
-    "static/js/main.e22d7da0.js"
+    "static/js/main.e3606e50.js"
   ]
 }
