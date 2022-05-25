@@ -3,7 +3,6 @@ import {
     BrowserRouter,
     Routes,
     Route,
-    Outlet,
 } from "react-router-dom";
 
 import Counter from "../components/Counter";
@@ -15,8 +14,7 @@ export default function App() {
         <BrowserRouter basename="/team-international-react-bootcamp">
             <Nav />
             <main>
-                <Routes path="/" element={<Outlet />}>
-                    <Route index element={<Home />} />
+                <Routes path="/" element={<Home />}>
                     <Route path="/counter" element={<Counter />} />
                 </Routes>
             </main>
