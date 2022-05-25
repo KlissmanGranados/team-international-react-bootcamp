@@ -11,7 +11,7 @@ import Home from "../views/Home";
 
 export default function App() {
     return (
-        <BrowserRouter>
+        <BrowserRouter basename="/team-international-react-bootcamp">
             <Nav />
             <main>
                 <Routes>
