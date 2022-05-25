@@ -14,7 +14,8 @@ export default function App() {
         <BrowserRouter basename="/team-international-react-bootcamp">
             <Nav />
             <main>
-                <Routes path="/" element={<Home />}>
+                <Routes>
+                    <Route index path="/" element={<Home />} />
                     <Route path="/counter" element={<Counter />} />
                 </Routes>
             </main>
